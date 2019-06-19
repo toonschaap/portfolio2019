@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(#595959, #1a1a1a);
+}
+h1 {
+  color: White;
+  text-align: center;
+}
+.container{
+  height: 600px;
+  background-color: white;
+  color:Black;
+
+.Body{
+  background-color: Black;
+  grid-column: 2 /4;
+  grid-row: 2 /3;
+}
